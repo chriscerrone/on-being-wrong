@@ -1,0 +1,43 @@
+{
+	"pattrstorage" : 	{
+		"name" : "onbeingwrong.json",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"button" : [ 0.0 ],
+					"button[2]" : [ 1.0 ],
+					"button[3]" : [ 0.0 ],
+					"button[4]" : [ 0.0 ],
+					"button[5]" : [ 1.0 ],
+					"button[6]" : [ 0.0 ],
+					"button[7]" : [ 0.0 ],
+					"button[8]" : [ 0.0 ],
+					"flonum" : [ 76.0 ],
+					"flonum[1]" : [ 96.0 ],
+					"flonum[2]" : [ 103.0 ],
+					"flonum[3]" : [ 74.0 ],
+					"flonum[4]" : [ 79.0 ],
+					"flonum[5]" : [ 98.0 ],
+					"flonum[6]" : [ 74.0 ],
+					"flonum[7]" : [ 79.0 ],
+					"gain~" : [ 98 ],
+					"gain~[10]" : [ 79 ],
+					"gain~[1]" : [ 98 ],
+					"gain~[2]" : [ 76 ],
+					"gain~[3]" : [ 76 ],
+					"gain~[4]" : [ 96 ],
+					"gain~[5]" : [ 96 ],
+					"gain~[6]" : [ 74 ],
+					"gain~[7]" : [ 74 ],
+					"gain~[8]" : [ 103 ],
+					"gain~[9]" : [ 79 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
